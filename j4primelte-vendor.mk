@@ -59,6 +59,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/j4primelte/proprietary/lib/libInteractiveSegmentation.camera.samsung.so:system/lib/libInteractiveSegmentation.camera.samsung.so \
 	vendor/samsung/j4primelte/proprietary/lib/libjpega.camera.samsung.so:system/lib/libjpega.camera.samsung.so \
 	vendor/samsung/j4primelte/proprietary/lib/libjpegsq.media.samsung.so:system/lib/libjpegsq.media.samsung.so \
+	vendor/samsung/j4primelte/proprietary/lib/libknox_keyutils.so:system/lib/libknox_keyutils.so \
 	vendor/samsung/j4primelte/proprietary/lib/libmaple.filter.thundersoft.so:system/lib/libmaple.filter.thundersoft.so \
 	vendor/samsung/j4primelte/proprietary/lib/libMattingCore.camera.samsung.so:system/lib/libMattingCore.camera.samsung.so \
 	vendor/samsung/j4primelte/proprietary/lib/libMLDAP.so:system/lib/libMLDAP.so \
