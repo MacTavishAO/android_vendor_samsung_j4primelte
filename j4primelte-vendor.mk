@@ -21,6 +21,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/j4primelte/proprietary/framework/com.quicinc.cne.jar:system/framework/com.quicinc.cne.jar \
 	vendor/samsung/j4primelte/proprietary/framework/dpmapi.jar:system/framework/dpmapi.jar \
 	vendor/samsung/j4primelte/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
+	vendor/samsung/j4primelte/proprietary/lib/fm_helium.so:system/lib/fm_helium.so \
 	vendor/samsung/j4primelte/proprietary/lib/android.hardware.soundtrigger@2.0-core.so:system/lib/android.hardware.soundtrigger@2.0-core.so \
 	vendor/samsung/j4primelte/proprietary/lib/lib_SamsungVAD_v01009.so:system/lib/lib_SamsungVAD_v01009.so \
 	vendor/samsung/j4primelte/proprietary/lib/lib_src_night_shot.so:system/lib/lib_src_night_shot.so \
@@ -35,6 +36,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/j4primelte/proprietary/lib/libexifa.camera.samsung.so:system/lib/libexifa.camera.samsung.so \
 	vendor/samsung/j4primelte/proprietary/lib/libFacePreProcessing.camera.samsung.so:system/lib/libFacePreProcessing.camera.samsung.so \
 	vendor/samsung/j4primelte/proprietary/lib/libFacePreProcessing_jni.camera.samsung.so:system/lib/libFacePreProcessing_jni.camera.samsung.so \
+	vendor/samsung/j4primelte/proprietary/lib/libfm-hci.so:system/lib/libfm-hci.so \
 	vendor/samsung/j4primelte/proprietary/lib/libheifcapture.so:system/lib/libheifcapture.so \
 	vendor/samsung/j4primelte/proprietary/lib/libheifcapture_jni.media.samsung.so:system/lib/libheifcapture_jni.media.samsung.so \
 	vendor/samsung/j4primelte/proprietary/lib/libheifcodec_jni.so:system/lib/libheifcodec_jni.so \
